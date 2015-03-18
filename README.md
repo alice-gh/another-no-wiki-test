@@ -1,5 +1,4 @@
-another-no-wiki-test
-====================
+# Test 1
 
 bup
 bup
